@@ -1,9 +1,9 @@
 # Maintainer ~ kyle[dot]devir[at]mykolab[dot]com
 # Contributor: Luca Weiss <luca (at) z3ntu (dot) xyz>
 
-pkgname=maya
-pkgver=2019
-_pkgver=2019
+pkgname=maya2019
+pkgver=1
+_pkgver=1
 pkgrel=1
 pkgdesc="Autodesk Maya 3D modelling software suite"
 arch=('x86_64')
