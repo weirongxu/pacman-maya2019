@@ -9,7 +9,8 @@ show_msg() {
 
 ## Run:
 
-$ sudo /opt/maya-setup/setup
+$ cd /opt/maya-setup
+$ sudo ./setup
 
 ## When it asks for your registration information,
 ## go to http://www.autodesk.com/education/free-software/maya

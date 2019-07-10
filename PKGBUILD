@@ -63,4 +63,5 @@ package() {
     mkdir -p "$pkgdir"/opt/maya-setup/
     chmod 755 "$pkgdir"/opt/maya-setup/
     cp ../../maya-setup/setup{,.xml} "$pkgdir"/opt/maya-setup/
+    cp ../../maya-setup/setup-bin "$pkgdir"/opt/maya-setup/
 }
