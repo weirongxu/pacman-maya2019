@@ -15,8 +15,8 @@ depends=('libpng12' 'tcsh' 'libxp' 'openssl' 'libjpeg6-turbo' 'libtiff' 'gamin'
 install="maya.install"
 options=(!strip)
 source=(
-# 'https://up.autodesk.com/2019/MAYA/Autodesk_Maya_2019_Linux_64bit.tgz'
-'./Autodesk_Maya_2019_Linux_64bit.tgz'
+'https://up.autodesk.com/2019/MAYA/Autodesk_Maya_2019_Linux_64bit.tgz'
+# './Autodesk_Maya_2019_Linux_64bit.tgz'
 'maya.desktop'
 )
 sha512sums=('45a247e739eceb360cdd39a763e91ada8717f5b63b976ffed0f318ff691c9e656b6b81789913b2e2792c0a58297f40393a21480b39650ea8125ad989e5b366c8'
